@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "revolution-2021-11-10"
-  }
+    "default": "revolution-2021-11-10",
+    "revolution": "revolution-2021-11-10"
+  },
+  "targets": {}
 }
